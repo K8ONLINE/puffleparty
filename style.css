@@ -1,0 +1,13 @@
+body {margin:auto;
+    background-color: #2b40b6;
+}
+h1 {margin:auto;
+color: #ff9cfd;
+font-family: helvetica;
+position: relative; left:38%;
+font-size:600%;}
+p {margin:auto; color:floralwhite;
+font-family: helvetica, sans-sarif;
+font-size:200%; 
+position: relative; left:37%;
+position: relative; down: 10px;}
